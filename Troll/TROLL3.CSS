@@ -1,0 +1,40 @@
+#qw{
+    background-color: chartreuse;
+    color: rgb(119, 154, 83);
+    border: solid 3px black;
+    margin-top: 300px;
+    margin-left: 624px;
+    margin-right: 400px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right:30px;
+ 
+}
+#er{
+    background-color: chartreuse ;
+    color:rgb(119, 154, 83) ;
+    margin-left: 500px;
+    margin-right: 544px;
+    border: solid 3px black; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+p{
+    border: solid 3px black;
+    margin-top: 150px;
+    margin-left: 500px;
+    margin-right: 544px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: blue;
+    font-size: x-large;
+}
+#qw:hover{
+    border: solid 6px black;
+}
+#er:hover{
+    border: solid 6px black;
+}
